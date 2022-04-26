@@ -1,5 +1,5 @@
 ## whoami
 
-I am a DevOps Engineer at [FoodLogiQ](https://www.foodlogiq.com/), FoodLogiQ connects the world’s food supply chain. 
+I am a Senior DevOps Engineer at [JupiterOne](https://jupiterone.com/), Know what you have. Focus on what matters.
 
 ✍️ Blog: https://www.marcelbelmont.com
