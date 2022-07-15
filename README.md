@@ -1,5 +1,5 @@
 ## whoami
 
-I am a Senior DevOps Engineer at [JupiterOne](https://jupiterone.com/), Know what you have. Focus on what matters.
+I am a Senior Platform Tools Engineer II at [EverBridge](https://www.everbridge.com/), Protect What Matters Most.
 
 ✍️ Blog: https://www.marcelbelmont.com
