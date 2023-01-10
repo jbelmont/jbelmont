@@ -1,5 +1,4 @@
 ## whoami
 
-I am a Senior Platform Tools Engineer II at [EverBridge](https://www.everbridge.com/), Protect What Matters Most.
-
+I am a Cloud Engineer at [Finity](https://www.finity.com/)
 ✍️ Blog: https://www.marcelbelmont.com
